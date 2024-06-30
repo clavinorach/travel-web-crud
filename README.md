@@ -5,7 +5,7 @@ Developed a simple travel website as a lecture assignment, integrating both back
  ensuring efficient data handling and storage.
  Employed React.js for the frontend framework, creating dynamic and responsive user interfaces. Styled the application using Bulma CSS
  to achieve a modern and clean design.
- Technologies Used: Express.js, Node.js, React.js, Bulma CSS
+**Technologies Used: Express.js, Node.js, React.js, Bulma CSS**
 
  **Image :**
 ![dashboard web-travel](https://github.com/clavinorach/travel-web-crud/assets/143194377/724c759d-aef5-4d2a-8064-b8769d519d45)
